@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AdventureWorkDb/AdventureWorkDb.sqlproj" Id="4f08e06c-61a0-40dc-9e2b-dafa5e7c9965">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AdventureWorkDbUnitTests/AdventureWorkDbUnitTests.csproj" Id="2c4e552f-a087-4cc3-94c0-d53a84730b02" />
+</Solution>
